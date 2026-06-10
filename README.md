@@ -43,24 +43,6 @@ Normalised, deduplicated, validated. Messy CRM notes become structured signals.
 **Step 03 — Insurers receive clean data**
 Euler, Allianz and others receive verified freight-specific intelligence — not generic credit scores.
 
----
-
-## Screens
-
-### Landing page
-![Landing page](screens/landing.png)
-
-### Analytics dashboard
-![Dashboard](screens/dashboard.png)
-
-### Shipper risk detail
-![Shipper detail](screens/shipper-detail.png)
-
-### Live sanitisation pipeline
-![Pipeline](screens/pipeline.png)
-
-### Mobile view
-![Mobile](screens/mobile.png)
 
 ---
 
